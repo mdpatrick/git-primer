@@ -1,4 +1,4 @@
-What is "version control" or "revision control"? (SCM??)
+What is "version control" or "revision control"?
 
 There's a number of really solid arguments as to why you should seriously take into consideration switching to Git if you're currently using a version control system like subversion.
 
