@@ -19,3 +19,7 @@ One of the benefits that should jump out at you about having an entire copy of a
 Despite the fact that with a git clone you're getting the whole pie and with a subversion checkout you're getting part of the pie, most often an entire git project will be barely (if at all) larger than a subversion checkout. This means that you're not losing much time with a massive initial download either.
 
 Even more important than speed, however, is that by having your repositories distributed you do not have a single point of failure. Since everyone that has cloned the project essentially has a full backup of the project data, losing the collaboration server is at very best a relatively minor inconvenience instead of a potentially catastrophic event. This is good news for those who fear the cloud.
+
+With git, instead of needing to create a new folder for each branch you make all you have to do is type "git branch newbranchname" and "git checkout newbranch" to switch to it. From that point forward any chances you make will remain there until you merge it back in, and in order to switch back to your master branch you just type "git checkout master" and all of your files and folders are back exactly where they started.
+
+When you're finally ready to bring in your new feature into the master branch (or "trunk" in subversion-speak) just switch over to your master branch by running "checkout master" and then type "git merge newbranch".
