@@ -1,6 +1,12 @@
 What is "version control" or "revision control"? (SCM??)
+Many of you are most likely already familiar with version control in some form. Just to start off though, I'd like to see a show of hands if you're still using FTP for the bulk of your updates.
 
-There's a number of really solid arguments as to why you should seriously take into consideration switching to Git if you're currently using a version control system like subversion.
+Okay, cool. Version control enhances collaboration and control over source code by allowing you to keep a rich history of all changes made by a single person, or thousands of developers. You can search for when a feature was first introduced, revert back to an older version, and a host of other things which even I'm still learning about.
+
+So, what then, is git?
+Git is a distributed version control system with an emphasis on speed. If you haven't started using git on any development projects yet, chances are you'll find yourself needing the basics soon enough. Due much in part to the growing popularity of the repository hosting service github which now hosts over 2 million repositories, git is quickly becoming known as (if not in fact already) the de facto version control heavyweight.
+
+There's a number of really solid arguments as to why you should seriously take into consideration switching to Git if you're currently using another popular version control system like subversion.
 
 The first point is that unlike subversion, git is a *distributed* version control system. To take the liberty of over simplifying this, if I may, distributed version control means that we're all on equal footing. In some ways, that's kind of the heart of what open source is, right? Instead of having a single hub (the repository) and many nodes, every developer can act as either a node or a hub because they keep a full copy of the repository themselves.
 
