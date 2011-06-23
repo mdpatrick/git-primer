@@ -1,3 +1,5 @@
+== What I'm Saying, Basically ==
+
 What is "version control" or "revision control"?
 Many of you are most likely already familiar with version control in some form. Just to start off though, I'd like to see a show of hands if you're still using FTP for the bulk of your updates.
 
