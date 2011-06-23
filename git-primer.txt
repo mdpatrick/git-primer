@@ -1,4 +1,4 @@
-What is "version control" or "revision control"? (SCM??)
+What is "version control" or "revision control"?
 Many of you are most likely already familiar with version control in some form. Just to start off though, I'd like to see a show of hands if you're still using FTP for the bulk of your updates.
 
 Okay, cool. Version control enhances collaboration and control over source code by allowing you to keep a rich history of all changes made by a single person, or thousands of developers. You can search for when a feature was first introduced, revert back to an older version, and a host of other things which even I'm still learning about.
