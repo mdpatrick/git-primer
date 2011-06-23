@@ -12,7 +12,4 @@ One of the benefits that should jump out at you about having an entire copy of a
 
 Despite the fact that with a git clone you're getting the whole pie and with a subversion checkout you're getting part of the pie, most often an entire git project will be barely (if at all) larger than a subversion checkout. This means that you're not losing much time with a massive initial download either.
 
-Even more important than speed, however, is that by having your repositories distributed you do not have a single point of failure. Since everyone that has cloned the project essentially has a full backup of the project data, losing the collaboration server is at very best a minor inconvenience instead of a potentially catastrophic event.
-
-
-
+Even more important than speed, however, is that by having your repositories distributed you do not have a single point of failure. Since everyone that has cloned the project essentially has a full backup of the project data, losing the collaboration server is at very best a relatively minor inconvenience instead of a potentially catastrophic event. This is good news for those who fear the cloud.
