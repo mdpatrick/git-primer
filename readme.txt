@@ -1,3 +1,5 @@
+# We need to translate this:
+
 By the time this repository is being viewed it should contain at the very least three or four files. 
 
 The first file that should jump at you is the content of my "primer" intro which is in git-primer.txt. This probably isn't too useful to you guys, but it let me refresh myself while sorting out my thoughts about what I was going to say. It will be interesting to see how literally I follow this script.
